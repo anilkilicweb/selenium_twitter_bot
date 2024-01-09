@@ -1,4 +1,8 @@
-CAREFUL FOR BELOW WARNINGS.
+PROJECT DESCRIPTION
+
+It is a Twitter bot created with Selenium. You can enter the keyword you want to search and see the latest tweets about it.
+
+CAREFUL FOR BELOW WARNINGS
 
 1. Two factor aut must be closed for your twitter account.
 2. Download the correct selenium web driver for you by following the steps below:
